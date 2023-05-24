@@ -1,0 +1,17 @@
+ul.nav1{ 
+    text-align: center; 
+   } 
+   ul.nav1 li{ 
+    list-style: none; 
+    display:inline-block; 
+    margin:2px; 
+    width:120px; 
+    padding:20px; 
+    background:#dc1b62;
+} 
+ul.nav1 li a{ 
+ font-size: 20px; 
+ text-decoration: none; 
+ padding:10px; 
+ margin:5px; 
+} 
